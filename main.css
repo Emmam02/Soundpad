@@ -1,0 +1,54 @@
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    flex-direction: column;
+}
+
+table {
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 50px;
+}
+
+td {
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px; 
+}
+#one {
+    background-color: rgba(255, 0, 0, 0.644);  
+}
+#two {
+    background-color: rgba(0, 4, 255, 0.651);
+}
+#three {
+    background-color: rgba(105, 61, 102, 0.603); 
+}
+#four {
+    background-color: rgb(143, 64, 64);
+}
+#five {
+    background-color: rgba(0, 255, 98, 0.521); 
+}
+#six {
+    background-color: rgb(44, 103, 114); 
+}
+#seven {
+    background-color: rgba(225, 0, 255, 0.671); 
+}
+#eight {
+    background-color: rgb(255, 166, 0);  
+}
+#nine {
+    background-color: rgb(76, 0, 255); 
+}
+#ten {
+    background-color: rgba(255, 251, 0, 0.541);  
+}
